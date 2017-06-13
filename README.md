@@ -6,3 +6,4 @@ Protractor
 JavaScript
 Mobile Automation using Appium
 Collections and DataStructures
+Maven
