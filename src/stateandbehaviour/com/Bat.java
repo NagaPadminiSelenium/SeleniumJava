@@ -4,6 +4,7 @@ import java.lang.*;
 import java.io.*;
 
 public class Bat {
+	//Bat class
 	public String color1=null;
 	public double size1=0.0;
 	
