@@ -4,6 +4,7 @@ import java.util.*;
 import java.io.*;
 
 public class Ball {
+	// Ball class
 	public String color=null;
 	public double size=0.0;
 	

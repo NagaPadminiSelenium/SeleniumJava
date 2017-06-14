@@ -4,7 +4,7 @@ import java.util.*;
 import java.io.*;
 
 public class Basket {
-	
+	//Basket class
 	public void addingtwoclasses()
 	{
 		Ball ball=new Ball();
